@@ -8,6 +8,9 @@ namespace _231221.Controllers
         // GET: baby
         public ActionResult Index()
         {
+
+
+
             return View();
         }
 
